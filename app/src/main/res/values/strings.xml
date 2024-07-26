@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SwitchBoard</string>
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="menu_device_list">Device List</string>
+    <string name="menu_scene_list">Scene List</string>
+    <string name="menu_system_settings">System Settings</string>
+
+    <string name="device_status_failed">Failed</string>
+    <string name="device_status_loading">Loading</string>
+    <string name="text_press_mode">Press Mode</string>
+    <string name="text_switch_mode">Switch Mode</string>
+    <string name="text_customize_mode">Custom Mode</string>
+
+    <string name="text_on">On</string>
+    <string name="text_off">Off</string>
+
+    <string name="text_locked">Locked</string>
+    <string name="text_unlocked">Unlocked</string>
+    <string name="text_jammed">Jammed</string>
+    <string name="text_empty"></string>
+
+    <string name="text_move_detected">Movement Detected</string>
+    <string name="text_move_undetected">No Movement</string>
+    <string name="text_move_brightness">Brightness: %s</string>
+
+    <string name="text_dry">Dry</string>
+    <string name="text_leak_detected">Leak Detected</string>
+
+    <string name="text_current">Current: %s</string>
+
+    <string name="text_unsupported">Unsupported</string>
+
+    <string name="text_success">Success</string>
+    <string name="text_failed">Failed</string>
+    <string name="text_percent_format">%s%%</string>
+</resources>
